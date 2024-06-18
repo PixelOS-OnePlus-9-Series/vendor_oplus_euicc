@@ -1,0 +1,14 @@
+## All proprietary files from this list, unless pinned and noted otherwise,
+## are from Oneplus 11 CPH2449.
+
+# eSIM Libraries
+odm/bin/hw/vendor.oplus.hardware.esim@1.0-service
+odm/etc/init/esim@1.0-service.rc
+odm/etc/vintf/manifest/manifest_oplus_esim.xml
+odm/lib/vendor.oplus.hardware.esim-V1-ndk.so
+odm/lib64/vendor.oplus.hardware.esim-V1-ndk.so
+system_ext/etc/permissions/euicc_features.xml
+
+# EuiccGoogle
+system_ext/etc/permissions/euicc_permission.xml
+system_ext/priv-app/EuiccGoogle/EuiccGoogle.apk;PRESIGNED
